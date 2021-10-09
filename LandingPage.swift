@@ -1,3 +1,3 @@
 class LandingPage {
-    var backgroundColor = .blue
+    var backgroundColor = .red
 }
